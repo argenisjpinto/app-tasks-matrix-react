@@ -192,3 +192,7 @@ src/
 - Firebase Docs – https://firebase.google.com/docs
 
 ---
+
+## 🚀 Deploy
+
+[La aplicación está lista para visualizar en **Vercel**.](https://app-tasks-matrix-react.vercel.app/)
