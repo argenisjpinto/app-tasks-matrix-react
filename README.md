@@ -140,7 +140,7 @@ src/
 
 1. Clonar el repositorio:
    ```bash
-   git clone <url-del-repositorio>
+   git clone https://github.com/argenisjpinto/app-tasks-matrix-react.git
    ```
 
 2. Instalar dependencias:
